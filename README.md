@@ -1,4 +1,4 @@
-![Game Developer/Programmer](https://github.com/chiew12301/chiew12301/blob/main/BLACKBG_BANNERLOGO.jpg)
+![Game Developer/Programmer](https://github.com/chiew12301/chiew12301/blob/main/BLACKBG_BANNERLOGOSmall.jpg)
 
 # Hey I'm KurumiChiew - aka @_k.chiew.game.dev_ / @KurumiC_GameDev 👋
 ## Game Developer/Programmer
