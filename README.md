@@ -5,6 +5,9 @@
 
 I'm KurumiChiew from Malaysia a Game Developer that know programming and art! Currently a final year student at UOW Malaysia KDU University College.
 
+- 🌱 I’m currently learning Unreal Engine 
+- 😄 Pronouns: he/him 
+
 ## Skills and Experience
 * 🕹 Unity C# 2D/3D
 * 🖥 C++ / C 
@@ -24,10 +27,6 @@ I'm KurumiChiew from Malaysia a Game Developer that know programming and art! Cu
 ### Starfall
 
 <img src="https://github.com/chiew12301/chiew12301/blob/main/GameLogo_BlackBG_White.png" width="256" />
-
-## More About Me
-- 🌱 I’m currently learning Unreal Engine 
-- 😄 Pronouns: he/him 
 
 ## Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/chiew12301)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/chiewjiahong//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_kurumic.game.dev_/?hl=en/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/KurumiC_GameDev)  
