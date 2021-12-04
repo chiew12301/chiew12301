@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey I'm KurumiChiew - aka @_k.chiew.game.dev_ / @KurumiC_GameDev 👋
+
+I'm KurumiChiew from Malaysia a Game Developer that know programming and art! Currently a final year student at UOW Malaysia KDU University College.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiew12301)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chiew12301/chiew12301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
