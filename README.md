@@ -13,9 +13,9 @@ I'm KurumiChiew from Malaysia a Game Developer that know programming and art! Cu
 * 📽 Adobe Premiere Pro
 
 ## Some of My Projects
-<img src="https://github.com/chiew12301/chiew12301/blob/main/Dz_yEy.png" width="256" />
-<img src="https://github.com/chiew12301/chiew12301/blob/main/mdlPUB.jpg" width="256" />
-<img src="https://github.com/chiew12301/chiew12301/blob/main/GameLogo_BlackBG_White.png" width="256" />
+<a img src="https://github.com/chiew12301/chiew12301/blob/main/Dz_yEy.png" width="256" /></a>
+<a img src="https://github.com/chiew12301/chiew12301/blob/main/mdlPUB.jpg" width="256" /></a>
+<a img src="https://github.com/chiew12301/chiew12301/blob/main/GameLogo_BlackBG_White.png" width="256" /></a>
 
 ## More About Me
 - 🌱 I’m currently learning Unreal Engine 
