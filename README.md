@@ -3,9 +3,9 @@
 # Hey I'm KurumiChiew - aka @_k.chiew.game.dev_ / @KurumiC_GameDev 👋
 ## Game Developer/Programmer
 
-I'm KurumiChiew from Malaysia a Game Developer that know programming and art! Currently a final year student at UOW Malaysia KDU University College.
+I'm KC aka KurumiChiew. A Malaysia Game Developer that know programming and art! Currently a XR Developer (Unity Developer) @ Agmo Studio and graduated from UOW Malaysia KDU.
 
-- 🌱 I’m currently learning Unreal Engine
+- 🌱 Self Learning Unreal Engine
 - 😄 Pronouns: he/him 
 
 ## Skills and Experience
