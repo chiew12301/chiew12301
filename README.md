@@ -10,10 +10,10 @@ I'm KC aka KurumiChiew. A Malaysia Game Developer that know programming and art!
 
 ## Skills and Experience
 * 🕹 Unity <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 2D/3D
-* 🖥 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> [![My Skills](https://skillicons.dev/icons?i=nodejs,c,cpp,cs)](https://skillicons.dev)
-* 🖌 <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15" /> <img src="https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /> 
+* 🖥 [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,c,cpp,cs)](https://skillicons.dev)
+* 🖌 [![My Skills](https://skillicons.dev/icons?i=ps,ae,ai)](https://skillicons.dev)
 * 🧱 Autodesk 3Ds Max
-* 📽 <img src="https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15" />
+* 📽 [![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
 
 ## Some of My Projects
 ### The Lost Child
