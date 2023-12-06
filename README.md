@@ -1,18 +1,18 @@
 <img src="https://github.com/chiew12301/chiew12301/blob/main/linkedin_banner_vr_dev.png" width="480" />
 
 # Hey I'm KurumiChiew - aka @_k.chiew.game.dev_ / @KurumiC_GameDev 👋
-## Game Developer/Programmer
+## Game Developer(Programmer)
 
-I'm KC aka KurumiChiew. A Malaysia Game Developer that know programming and art! Currently a XR Developer (Unity Developer) @ Agmo Studio and graduated from UOW Malaysia KDU.
+I'm KC aka KurumiC. A Malaysia Game Developer that know programming and art! Currently a XR Developer (Unity Game Developer) @ Agmo Holdings.
 
-- 🌱 Self Learning Unreal Engine
+- 🌱 Self Learning Unreal, Godot Engine
 - 😄 Pronouns: he/him 
 
 ## Skills and Experience
 * 🕹 Unity [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 2D/3D
 * 🖥 [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,c,cpp,cs)](https://skillicons.dev)
 * 🖌 [![My Skills](https://skillicons.dev/icons?i=ps,ae,ai)](https://skillicons.dev)
-* 🧱 Autodesk 3Ds Max
+* 🧱 Autodesk 3Ds Max, Blender
 * 📽 [![My Skills](https://skillicons.dev/icons?i=pr)](https://skillicons.dev)
 
 ## Some of My Projects
