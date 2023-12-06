@@ -9,7 +9,7 @@ I'm KC aka KurumiChiew. A Malaysia Game Developer that know programming and art!
 - 😄 Pronouns: he/him 
 
 ## Skills and Experience
-* 🕹 Unity <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 2D/3D
+* 🕹 Unity [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 2D/3D
 * 🖥 [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,c,cpp,cs)](https://skillicons.dev)
 * 🖌 [![My Skills](https://skillicons.dev/icons?i=ps,ae,ai)](https://skillicons.dev)
 * 🧱 Autodesk 3Ds Max
