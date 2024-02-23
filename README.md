@@ -34,4 +34,4 @@ I'm KC aka KurumiC. A Malaysia Game Developer that know programming and art! Cur
 [![KuruimiChiew's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiew12301&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![KuruimiChiew's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiew12301&show_icons=true&theme=dark)
 [![KuruimiChiew's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiew12301&show_icons=true&theme=dark&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-![KuruimiChiew's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiew12301&show_icons=true&theme=darkk&locale=cn)
+![KuruimiChiew's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiew12301&show_icons=true&theme=dark&locale=cn)
