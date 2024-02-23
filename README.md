@@ -17,15 +17,10 @@ I'm KC aka KurumiC. A Malaysia Game Developer that know programming and art! Cur
 
 ## Some of My Projects
 ### The Lost Child
-
 [<img src="https://github.com/chiew12301/chiew12301/blob/main/Dz_yEy.png" width="256" />](https://uowmgames.itch.io/lost-child)
-
 ### View
-
 [<img src="https://github.com/chiew12301/chiew12301/blob/main/mdlPUB.jpg" width="256" />](https://uowmgames.itch.io/view)
-
 ### Starfall
-
 [<img src="https://github.com/chiew12301/chiew12301/blob/main/GameLogo_BlackBG_White.png" width="256" />](https://chiew12301.itch.io/starfall)
 
 ## Contact Me
