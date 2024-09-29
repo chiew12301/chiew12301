@@ -9,7 +9,7 @@ I'm KC aka KurumiC. A Malaysia Game Developer that know programming and art! Cur
 - 😄 Pronouns: he/him 
 
 ## Skills and Experience
-* 🕹 Unity [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 2D/3D
+* 🕹 Unity [![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) 2D/3D, Unreal C++
 * 🖥 [![My Skills](https://skillicons.dev/icons?i=nodejs,html,css,c,cpp,cs)](https://skillicons.dev)
 * 🖌 [![My Skills](https://skillicons.dev/icons?i=ps,ae,ai)](https://skillicons.dev)
 * 🧱 Autodesk 3Ds Max, Blender
